@@ -1,0 +1,29 @@
+H1 {
+    color: lightgrey;
+    font-size: 300%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  } 
+H3 {
+    color: lightskyblue;
+    font-size: 150%;
+    font-family: Arial, Verdana, sans-serif;
+    text-align: center;
+  } 
+
+body {
+    background-image: url(../img/bckgrnd.png); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
+    background-attachment: fixed;
+    background-size: 100%                   
+   }
+p.links {
+    margin-top: 10%;
+}
+
+button {    
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 50%;  
+    margin-top: 5px;
+}
